@@ -1,0 +1,42 @@
+_repo: Amiti--amoureuse_36635
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Stendhal
+    aliases:
+    - Marie-Henri Beyle
+    - Beyle, Marie Henri
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lecomte du Noüy, Hermine Oudinot
+    aliases:
+    - Noüy, Hermine Oudinot Lecomte du
+    - Noüy, Hermine Oudinot Lecomte Du
+    - Lecomte du Nouy, Hermine Oudinot
+    birthdate: 1854
+    deathdate: 1915
+    gutenberg_agent_id: '32271'
+    url: http://www.gutenberg.org/2009/agents/32271
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36635'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: Amitié amoureuse
+url: http://www.gutenberg.org/ebooks/36635
