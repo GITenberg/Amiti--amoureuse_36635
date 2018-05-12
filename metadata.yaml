@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '32271'
     url: http://www.gutenberg.org/2009/agents/32271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36635#Amiti--amoureuse
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-07-05'
 gutenberg_type: Text
